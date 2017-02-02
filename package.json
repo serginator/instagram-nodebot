@@ -1,0 +1,24 @@
+{
+  "name": "instagram-nodebot",
+  "version": "1.0.0",
+  "description": "Silly bot for instaliking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serginator/instagram-nodebot.git"
+  },
+  "keywords": [
+    "instagram",
+    "bot",
+    "likes"
+  ],
+  "author": "Sergio Ruiz (@serginator)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serginator/instagram-nodebot/issues"
+  },
+  "homepage": "https://github.com/serginator/instagram-nodebot#readme"
+}
